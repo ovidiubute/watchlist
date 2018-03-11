@@ -1,0 +1,27 @@
+{
+  "name": "watchlist",
+  "version": "1.0.0",
+  "description": "Watchlist monorepo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovidiubute/watchlist.git"
+  },
+  "keywords": [
+    "movies",
+    "api",
+    "monorepo"
+  ],
+  "author": "Ovidiu Bute <ovidiu.bute@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ovidiubute/watchlist/issues"
+  },
+  "homepage": "https://github.com/ovidiubute/watchlist#readme",
+  "devDependencies": {
+    "tslint": "5.9.1",
+    "typescript": "2.7.2"
+  }
+}
