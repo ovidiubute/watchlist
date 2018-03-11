@@ -1,4 +1,4 @@
 export default interface PeerRating {
-    source: string;
-    value: string;
-}
+  source: string;
+  value: string;
+};
