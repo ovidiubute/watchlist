@@ -1,0 +1,8 @@
+.app {
+  margin: 32px;
+}
+
+.app .thumbnail-container {
+  width: 240px;
+  height: 320px;
+}
