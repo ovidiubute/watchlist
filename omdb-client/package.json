@@ -1,0 +1,19 @@
+{
+  "name": "omdb-client",
+  "version": "0.0.1",
+  "description": "OMDB API client",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OMDB",
+    "API"
+  ],
+  "author": "Ovidiu Bute <ovidiu.bute@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "9.4.7",
+    "typescript": "2.7.2"
+  }
+}
